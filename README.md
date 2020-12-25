@@ -1,5 +1,5 @@
 # DATS6450-CloudComputing-DogBreedRecognition
-Final group project for DATS 6450 Cloud Computing
+Final group project for DATS 6450 Cloud Computing - Fall 2020
 
 Authors: Jesse Borg, Sarah Gates, Luis Ahumada
 
